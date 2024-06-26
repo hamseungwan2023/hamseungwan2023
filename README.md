@@ -1,16 +1,27 @@
 <div align="center">
+   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20nayoung's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
+  
 </div>
+
 <div align="center">
-:행운의_손가락: Welcome my github profile :행운의_손가락:
+  
+👍
+
 </div>
 <br/><br/>
+
 <div align="center">
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeNaYoung240%2Fhit-counter&count_bg=%23FABEBE&title_bg=%23555555&icon=&icon_color=%23FFBFBF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   </div>
+  
 <br/> <br/> <br/>
 <div align="center">
- :수화기: Contact
+  
+😁
+ 
 <br/>
 <br/>
  <div style="display:flex; flex-direction:row;">
@@ -21,7 +32,9 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
 </div><br><br/><br/><br/>
-:책갈피_탭: Once I've Used
+
+☎️
+
 </div>
 <br/>
 <div align="center">
@@ -42,8 +55,10 @@
 </div>
 <br/><br/><br/><br/>
 <div align="center">
-:자명종_시계: Study log
- <br/>
+
+🕛
+  
+  <br/>
  <br/> <br/>
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeNaYoung240&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeNaYoung240&layout=compact)
  </div>
