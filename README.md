@@ -25,10 +25,10 @@
 <br/>
 <br/>
  <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/240_2_or_0/">
+    <a href="https://www.instagram.com/kingodham/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a href="mailto:ajd092710@gmail.com">
+    <a href="mailto:syham001@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
 </div><br><br/><br/><br/>
@@ -60,6 +60,8 @@
   
   <br/>
  <br/> <br/>
-![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeNaYoung240&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeNaYoung240&layout=compact)
+ 
+![Seungwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamseungwan2023&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamseungwan2023&layout=compact)
+
  </div>
  <br/>
